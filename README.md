@@ -17,11 +17,7 @@ Criar um treinamento em realidade aumentada utilizando as tecnologias HTML/JS ut
 <h1>O PROJETO – TREINAMENTO A SER SOLUCIONADO</h1>
 
  
-
-
- 
-
- 
+<p><img src="https://i.imgur.com/MSj1mCo.png" alt="Descrição da imagem"/><p>
 
 Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de forma correta, e para isso o treinamento irá emitir uma notificação alertando quando essas ferramentas não estiverem na posição definida. 
 
