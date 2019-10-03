@@ -14,7 +14,7 @@ TURMA:  3°ADS B
 <h1>OBJETIVO</h1>
 Criar um treinamento em realidade aumentada utilizando as tecnologias HTML/JS utilizando as bibliotecas AR.JS com framework A-FRAME, aplicando-os na plataforma online CODEPEN, a fim de solucionar a deficiência no processo de manuseio das ferramentas da empresa LATÉCOÈRE.
 
-O PROJETO – TREINAMENTO A SER SOLUCIONADO
+<h1>O PROJETO – TREINAMENTO A SER SOLUCIONADO</h1>
 
  
 
@@ -27,7 +27,7 @@ Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de for
 
 
 
- 
+<h2>Links importantes:<h2> 
 hiro:https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
 
 ar:https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-novo-maker-ar.png
