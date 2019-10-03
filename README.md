@@ -26,14 +26,11 @@ Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de for
 <p><img src="https://i.imgur.com/eHB44vC.png" alt="Descrição da imagem"/><p>
 
 <h2>Links importantes:</h2> 
-hiro:https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg<br>
-ar:https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-novo-maker-ar.png
+
+Imagem do AR:https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-novo-maker-ar.png
 
 Imagem do HIRO: https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
 
-documentação para consulta: https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105
+Documentação consultada: https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105
 
-marker generator: https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
-
-
-
+Marker generator: https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
