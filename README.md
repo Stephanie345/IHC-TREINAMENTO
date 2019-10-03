@@ -5,9 +5,7 @@ CURSO: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
 PROJETO AR.JS – INTERAÇÃO HUMANO COMPUTADOR
 
 INTEGRANTES:
-Érica Santos
-Nayara Lorrane
-Stephanie Costa
+Érica Santos, Nayara Lorrane e Stephanie Costa
 
 TURMA:  3°ADS B
 
