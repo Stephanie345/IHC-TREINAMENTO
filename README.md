@@ -26,8 +26,8 @@ Criar um treinamento em realidade aumentada utilizando as tecnologias HTML/JS ut
 Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de forma correta, e para isso o treinamento irá emitir uma notificação alertando quando essas ferramentas não estiverem na posição definida. 
 
 <p><img src="https://i.imgur.com/kR7t0Qr.png" alt="Descrição da imagem"/><p>
-<p><img src="https://imgur.com/f974fc0b-f707-422b-949c-5d7d64d7ad9d" alt="Descrição da imagem"/><p>
-<p><img src="https://i.imgur.com/kR7t0Qr.png" alt="Descrição da imagem"/><p>
+<p><img src="https://i.imgur.com/KXKhKht.png" alt="Descrição da imagem"/><p>
+<p><img src="https://i.imgur.com/eHB44vC.png" alt="Descrição da imagem"/><p>
 
 <h2>Links importantes:</h2> 
 hiro:https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg<br>
