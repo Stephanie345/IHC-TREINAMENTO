@@ -28,7 +28,7 @@ Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de for
 
 
 <h2>Links importantes:</h2> 
-hiro:https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg<p>
+hiro:https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg<br>
 ar:https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-novo-maker-ar.png
 
 Imagem do HIRO: https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
