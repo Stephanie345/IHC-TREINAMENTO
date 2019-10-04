@@ -6,7 +6,7 @@ PROJETO AR.JS – INTERAÇÃO HUMANO COMPUTADOR
 
 INTEGRANTES:
 Érica Santos, Nayara Lorrane e Stephanie Costa
-
+PROFESSOR: Giuliano 
 TURMA:  3°ADS B
 
 
@@ -23,6 +23,8 @@ Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de for
 <p><img src="https://i.imgur.com/kR7t0Qr.png" alt="Descrição da imagem"/><p>
 <p><img src="https://i.imgur.com/KXKhKht.png" alt="Descrição da imagem"/><p>
 <p><img src="https://i.imgur.com/eHB44vC.png" alt="Descrição da imagem"/><p>
+ 
+<p><img src="https://i.imgur.com/nAy3tZB.gif"></p>
 
 <h2>Links importantes:</h2> 
 
