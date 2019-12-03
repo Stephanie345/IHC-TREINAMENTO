@@ -30,7 +30,7 @@ Objetivo da solução: Fazer com que o colaborador utilize as ferramentas de for
 
 Imagem do AR:https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-novo-maker-ar.png
 
-Imagem do ER: https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-er-marker.png  
+Imagem do SS: https://github.com/EricaSantos2109/IHC-TREINAMENTO/blob/master/pattern-SS-MAKER.png
 
 Imagem do HIRO: https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
 
